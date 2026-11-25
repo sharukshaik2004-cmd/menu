@@ -1,0 +1,122 @@
+header {
+    background-color: black;
+    padding: 10px;
+}
+
+.logo {
+    float: left;
+    width: 25%;
+}
+
+.logo h1 {
+    color: orange;
+    font-family: cursive;
+    font-size: 35px;
+}
+
+nav {
+    float: left;
+    width: 55%;
+    text-align: center;
+    margin-top: 25px;
+}
+
+nav a {
+    color: white;
+    font-size: 18px;
+    font-family: Arial;
+    text-decoration: none;
+    margin-right: 25px;
+}
+
+.booking {
+    float: right;
+    width: 20%;
+    margin-top: 15px;
+}
+
+.booking button {
+    background-color: orange;
+    color: black;
+    font-size: 16px;
+    padding: 12px;
+}
+.hero {
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+.hero-content {
+    float: left;
+    width: 45%;
+}
+
+.hero-image {
+    float: right;
+    width: 50%;
+}
+
+.hero-image img {
+    width: 100%;
+    height: 300px;
+}
+
+.hero-content h3 {
+    color: orange;
+    font-family: cursive;
+    font-style: italic;
+}
+
+.hero-content h1 {
+    font-size: 60px;
+}
+
+.hero-content span {
+    color: orange;
+}
+
+.hero-content p {
+    font-size: 18px;
+}
+.description {
+    color: orange;
+    font-family: Arial;
+    font-size: 60px;
+    font-style: italic;
+}
+.our{
+    text-align: center;
+}
+.menu {
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
+.menu h1 {
+    color: orange;
+    font-family: cursive;
+}
+
+.food {
+    float: left;
+    width: 22%;
+    margin: 10px;
+}
+
+.food img {
+    width: 100%;
+    height: 200px;
+}
+
+.food h2 {
+    color:black;
+    font-family: cursive;
+}
+
+.food p {
+    color: white;
+    font-size: 16px;
+}
